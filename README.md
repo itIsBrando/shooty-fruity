@@ -10,4 +10,4 @@ Built using rgbds.
 - The goal is to shoot fruits from the trees but to avoid hitting the birds
 
 ### Screenshots
-![main menu picture](https://raw.githubusercontent.com/itIsBrando/shooty-fruity/main/screenshots/screenshot1.bmp main menu)
+![main menu](/screenshots/screenshot1.bmp)
