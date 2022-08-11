@@ -4,10 +4,11 @@ Built using rgbds.
 ***
 
 ## About
-
-- I wrote the [original game](https://itIsBrando.github.io/) in Pico-8
+- A simple arcade game where the player's goal is to shoot at growing fruits while avoiding hitting the birds
 - Play using a gameboy emulator or on a real gameboy
-- The goal is to shoot fruits from the trees but to avoid hitting the birds
+
+This project was started as an attempt to learn assembly for the original Gameboy.
+As a result, code may be unclear or inefficient.
 
 ### Screenshots
 ![main menu](/screenshots/screenshot1.bmp)
